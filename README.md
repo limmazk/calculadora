@@ -51,3 +51,7 @@ Este projeto é uma calculadora web completa que permite realizar operações ma
 ## 👨‍💻 Autor
 
 Desenvolvido como projeto de estudo em React.
+
+## Contato:
+
+<a href="https://www.linkedin.com/in/arthur-lima-027581326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
