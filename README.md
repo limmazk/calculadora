@@ -2,7 +2,11 @@
 
 Uma calculadora funcional desenvolvida em React com interface moderna e responsiva.
 
+<img width="1858" height="924" alt="calculadora" src="https://github.com/user-attachments/assets/5e1fc0a9-1fc2-4653-9884-5e16ade76019" />
+
+
 ## 📋 Descrição
+
 
 Este projeto é uma calculadora web completa que permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. A aplicação foi desenvolvida utilizando React com componentes de classe e CSS personalizado para estilização.
 
