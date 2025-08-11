@@ -17,10 +17,9 @@ Este projeto é uma calculadora web completa que permite realizar operações ma
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **React** 19.1.1 - Biblioteca JavaScript para construção da interface
-- **React DOM** 19.1.1 - Renderização de componentes React
-- **CSS3** - Estilização personalizada dos componentes
-- **JavaScript ES6+** - Lógica da aplicação
+- <img align="center" alt="Arthur-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> **React**  
+- <img align="center" alt="Arthur-Css" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> **CSS** 
+- <img align="center" alt="Arthur-JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> **JavaScript**  
 
 
 ## 🏗️ Arquitetura dos Componentes
